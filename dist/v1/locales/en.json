@@ -85,7 +85,8 @@
     "dashboard": "Dashboard",
     "error_page": "Error page",
     "feedback": "Rate us!",
-    "thanks": "Thank you for using our service!"
+    "thanks": "Thank you for using our service!",
+    "no_messages": "No messages here yet..."
   },
   "confirmation": {
     "delete_domain": "Are you sure you want to delete the domain?",
@@ -124,6 +125,7 @@
     "choose_language": "Hello! Before we are start our conversation, choose the language.",
     "your_credentials": "Hello! We are online! Just write your full name and email below and let`s get started!",
     "feedback_description": "Leave a feedback after using our service",
+    "type_message": "Type your message and start conversation",
     "no_chats": {
       "title": "Sorry, but there are no active chats",
       "description": "Just wait a while and your first client will appear"
