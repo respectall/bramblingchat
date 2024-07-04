@@ -1,0 +1,214 @@
+{
+  "buttons": {
+    "sign_in": "Sign in",
+    "sign_up": "Sign up",
+    "sign_out": "Sign out",
+    "create": "Create",
+    "send": "Send",
+    "save": "Save",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "verify": "Verify",
+    "resend": "Resend",
+    "yes": "Yes",
+    "no": "No",
+    "ban": "Ban",
+    "upload": "Upload",
+    "no_leave": "No, leave it",
+    "decline": "Decline",
+    "apply": "Apply",
+    "close": "Close",
+    "close_modal": "Close modal",
+    "options": "Options",
+    "switch_to_table": "Switch to table",
+    "switch_to_chat": "Switch to chat",
+    "reset": "Reset",
+    "prev_step": "Back",
+    "next_step": "Next",
+    "skip": "Skip",
+    "rate": "Rate",
+    "just_close": "Just close chat",
+    "file": {
+      "change": "Change file",
+      "delete": "Delete file"
+    },
+    "image": {
+      "change": "Change image",
+      "delete": "Delete image"
+    },
+    "domains": {
+      "create": "Create domain",
+      "delete": "Delete domain",
+      "add_operator": "Add operator"
+    },
+    "operators": {
+      "create": "Create operator",
+      "delete": "Delete operator"
+    }
+  },
+  "nav": {
+    "sign_in": "Sign in",
+    "sign_up": "Sign up",
+    "profile": "Profile",
+    "domains": "Domains list",
+    "operators": "Operators list",
+    "faq": "FAQ",
+    "notifications": "Notifications",
+    "chats": {
+      "index": "Chats",
+      "current": "Current",
+      "closed": "Closed",
+      "archived": "Archived",
+      "dismissed": "Dismissed",
+      "banned": "Banned"
+    }
+  },
+  "titles": {
+    "sign_in": "Sign in to your account to <br/> get started",
+    "sign_up": "Sign up to your account to <br/> get started",
+    "password_forgot": "Password recovery",
+    "password_reset": "Create new password",
+    "profile": "Profile",
+    "new_domain": "Create new domain",
+    "domains_list": "Domains list",
+    "new_operator": "Create new operator",
+    "operators_list": "Operators list",
+    "operator_as_member_title": "Add operator",
+    "domain_settings": "Domain settings",
+    "operator_settings": "Operator settings",
+    "current_chats": "Current chats",
+    "archived_chats": "Archived chats",
+    "closed_chats": "Closed chats",
+    "dismissed_chats": "Dismissed chats",
+    "banned_chats": "Banned chats",
+    "dashboard": "Dashboard",
+    "error_page": "Error page",
+    "feedback": "Rate us!",
+    "thanks": "Thank you for using our service!"
+  },
+  "confirmation": {
+    "delete_domain": "Are you sure you want to delete the domain?",
+    "delete_operator": "Are you sure you want to delete the operator?",
+    "delete_image": "Are you sure you want to delete image?",
+    "delete_file": "Are you sure you want to delete file?",
+    "new_chat": "Are you ready to new chat?",
+    "sign_out": {
+      "title": "Sign out",
+      "description": "Are you sure you want to sign out?"
+    },
+    "close_chat": {
+      "title": "Are you sure you want to close chat?",
+      "description": "You will not be able to continue the conversation"
+    },
+    "ban_chat": {
+      "title": "Are you sure you want to ban chat?",
+      "description": "User {{user}} (IP {{ip}}) will be banned"
+    }
+  },
+  "phrases": {
+    "forgot_password": "Forgot password?",
+    "forgot_password_description": "We will email you a link to reset your password",
+    "email_verification_without_params": "Check your mailbox. <br/> You must follow the link to verify your email",
+    "email_verification_with_params": "Almost done. <br/> Click the '{{button}}' button to complete",
+    "password_requirements": "your password must consist of not less than 8 symbols, at least one number and one uppercase letter.",
+    "save_data_for_sign_in": "Save your data for Log in",
+    "no_matches": "No matches found",
+    "no_domains": "Sorry, but there are no domains yet",
+    "no_operators": "Sorry, but there are no operators yet",
+    "file_upload_description": "Upload file (max size {{size}})",
+    "member_modal_description": "Choose person from the list",
+    "remove_member": "Remove {{name, capitalize}}",
+    "back": "Back to {{page, lowercase}}",
+    "copied": "Copied",
+    "choose_language": "Hello! Before we are start our conversation, choose the language.",
+    "your_credentials": "Hello! We are online! Just write your full name and email below and let`s get started!",
+    "feedback_description": "Leave a feedback after using our service",
+    "no_chats": {
+      "title": "Sorry, but there are no active chats",
+      "description": "Just wait a while and your first client will appear"
+    },
+    "no_opened_chat": {
+      "title": "Open some chat",
+      "description": "Next opened chat will appear here"
+    },
+    "error_page": {
+      "title": "Oops! Something went wrong",
+      "description": "An error occurred. Please go back to the homepage, and we will fix it."
+    }
+  },
+  "labels": {
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "password_confirmation": "Password confirmation",
+    "password_requirements": "Password requirements",
+    "password_old": "Old password",
+    "avatar": "Avatar",
+    "language": "Language",
+    "picture": "Picture",
+    "host": "Host",
+    "timezone": "TimeZone",
+    "working_hours": "Working hours",
+    "start_at": "Start at",
+    "end_at": "End at",
+    "domain": "Domain",
+    "ability_to_ban": "Ability to ban",
+    "connected_operators": "Connected operators",
+    "theme_output": "Code",
+    "color_switchers": "Colors",
+    "operator": "Operator"
+  },
+  "placeholders": {
+    "enter": "Enter {{name, lowercase}}",
+    "choose": "Choose {{name, lowercase}}",
+    "enter_demo_message": "Type your message",
+    "empty_select": "List is empty",
+    "enter_color": "Enter color",
+    "type_message": "Type your message",
+    "loading": "Loading",
+    "no_domains": "No domains",
+    "type_feedback": "Type your feedback"
+  },
+  "errors": {
+    "required": "Required",
+    "min_length": "Min length is {{value}}",
+    "max_length": "Max length is {{value}}",
+    "email": "Enter a valid email address",
+    "phone": "Enter a valid phone number",
+    "same_passwords": "Passwords must be the same",
+    "domain": "Enter a valid domain address",
+    "hex": "Enter a valid hex color"
+  },
+  "toasts": {
+    "image_deleted": "Image has been deleted",
+    "codes": {
+      "401": "Your session has expired or you don't have access to this page"
+    },
+    "password": {
+      "forgot_message_sent": "Password recovery email sent. Check your mailbox shortly",
+      "reset_error": "Missing Email or Token",
+      "changed": "Password has been changed"
+    },
+    "profile": {
+      "updated": "Profile has been updated"
+    },
+    "verification": {
+      "link_sent": "Verification link sent. Check your mailbox"
+    },
+    "domain": {
+      "created": "Domain has been created",
+      "updated": "Domain has been updated",
+      "deleted": "Domain has been deleted",
+      "operators_synced": "Operators have been synced"
+    },
+    "operator": {
+      "created": "Operator has been created",
+      "updated": "Operator has been updated",
+      "deleted": "Operator has been deleted"
+    },
+    "chat": {
+      "closed": "Chat has been closed"
+    }
+  }
+}
